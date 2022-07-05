@@ -3,3 +3,5 @@ the effect of dynamic charges on each other inside a perfect conductor. The user
 dynamic charge.
 
 An example of a two videos illustrating the project: https://www.youtube.com/watch?v=vNfVMgTI2JY    ,        https://www.youtube.com/watch?v=7IpMH1yLtXY
+
+To test the project, download the rar file and extract them, then enter "ChargeDynamics.exe".
